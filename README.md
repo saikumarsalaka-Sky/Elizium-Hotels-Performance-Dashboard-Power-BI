@@ -81,3 +81,8 @@ Focus on high-performing booking channels
 
 # Dashboard Preview
 
+## 📸 Dashboard Preview
+
+![Elizium Hotels Dashboard](screenshots/elizium_hotels_dashboard.png)
+
+
